@@ -11,3 +11,4 @@ links.forEach(link => {
         navLinks.classList.remove('active')
     })
 })
+
